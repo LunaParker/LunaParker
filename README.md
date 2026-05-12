@@ -29,7 +29,7 @@ Some personal projects I've worked on include:
 - **[macos-permission-report](https://github.com/LunaParker/macos-permission-report)** — Python tool that audits macOS TCC privacy permissions and flags ghost entries from uninstalled apps.
 - **[claude-macos-menu-usage](https://github.com/LunaParker/claude-macos-menu-usage)** — native Swift menu-bar app showing live Claude Code quota usage.
 - **[apple-music-py](https://github.com/LunaParker/apple-music-py)** — unofficial Python client for the Apple Music web API, with Playwright-driven authentication.
-- **[macos-obsidian-default-handler](https://github.com/LunaParker/macos-obsidian-default-handler)** — AppleScript droplet + Python helper that makes Obsidian the default `.md` handler on macOS, vault or not.
+- **[waveapps-mcp](https://github.com/LunaParker/waveapps-mcp)** — MCP server for Wave Accounting that I built from scratch by reverse-engineering Wave's internal GraphQL + REST API (Wave doesn't publish one). 28 tools covering invoices, customers, estimates, bills, receipts, and products & services — Claude can draft invoices, record payments, and run my bookkeeping workflow end-to-end. Ships with auto-refresh on session expiry and a full vitest test suite.
 
 ### 🛠️ Stack
 
